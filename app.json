@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "poke-go",
+    "slug": "poke-go",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "scheme": "pokego",
+    "userInterfaceStyle": "automatic",
+    "plugins": ["expo-router"]
+  }
+}
